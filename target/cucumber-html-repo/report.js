@@ -103,14 +103,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 2512909800,
+  "duration": 4307758800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Facebook_page()"
 });
 formatter.result({
-  "duration": 3585523100,
+  "duration": 1914082200,
   "status": "passed"
 });
 formatter.match({
@@ -127,14 +127,14 @@ formatter.match({
   "location": "LoginSteps.i_enter_valid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 234334600,
+  "duration": 333696500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 3276487300,
+  "duration": 3403103500,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.LoginSteps.i_should_be_able_to_login_successfully(LoginSteps.java:47)\r\n\tat ✽.Then I should be able to login successfully(Login.feature:6)\r\n",
   "status": "failed"
 });
@@ -174,14 +174,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1299680200,
+  "duration": 1496542700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Facebook_page()"
 });
 formatter.result({
-  "duration": 3453560100,
+  "duration": 1503347100,
   "status": "passed"
 });
 formatter.match({
@@ -198,14 +198,14 @@ formatter.match({
   "location": "LoginSteps.i_enter_valid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 208105200,
+  "duration": 219052700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 5123856100,
+  "duration": 4707577800,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.LoginSteps.i_should_be_able_to_login_successfully(LoginSteps.java:47)\r\n\tat ✽.Then I should be able to login successfully(Login.feature:6)\r\n",
   "status": "failed"
 });
