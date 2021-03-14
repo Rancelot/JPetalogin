@@ -9,4 +9,3 @@ Feature: Login
       | username	| password    |
       | validusername@domain.com	| Secret! |
       | validUserName	| ValidPassword |
-
