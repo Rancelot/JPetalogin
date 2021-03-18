@@ -16,8 +16,8 @@ public class LoginSteps {
 	
 	WebDriver driver;
 	
-	@Given("^I open Chrome browser$")
-	public void i_open_Chrome_browser() throws Throwable {
+	@Given("^I open Chrome browser2$")
+	public void i_open_Chrome_browser2() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 		System.setProperty("webdriver.chrome.driver", "chrome/chromedriver.exe");
 		driver = new ChromeDriver();
