@@ -135,14 +135,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 3564632000,
+  "duration": 14202389501,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 1561454600,
+  "duration": 815400301,
   "status": "passed"
 });
 formatter.match({
@@ -159,14 +159,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_valid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 1534796600,
+  "duration": 669965000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 1313512200,
+  "duration": 723319401,
   "status": "passed"
 });
 formatter.scenario({
@@ -205,14 +205,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1791380900,
+  "duration": 2936745800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 3386453600,
+  "duration": 1370577299,
   "status": "passed"
 });
 formatter.match({
@@ -229,14 +229,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_valid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 591136100,
+  "duration": 880628900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 710514800,
+  "duration": 1014612699,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.LoginSteps.i_should_be_able_to_login_successfully(LoginSteps.java:61)\r\n\tat ✽.Then I should be able to login successfully(Login.feature:6)\r\n",
   "status": "failed"
 });
@@ -276,14 +276,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1589747800,
+  "duration": 1718878800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 1065184300,
+  "duration": 1252184300,
   "status": "passed"
 });
 formatter.match({
@@ -300,14 +300,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_valid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 472275100,
+  "duration": 574404299,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 637360400,
+  "duration": 641905900,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.LoginSteps.i_should_be_able_to_login_successfully(LoginSteps.java:61)\r\n\tat ✽.Then I should be able to login successfully(Login.feature:6)\r\n",
   "status": "failed"
 });
@@ -347,14 +347,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1360758000,
+  "duration": 1383042800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 1272404000,
+  "duration": 1309979900,
   "status": "passed"
 });
 formatter.match({
@@ -371,14 +371,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_valid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 567282500,
+  "duration": 467934899,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 1034650500,
+  "duration": 783001300,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.LoginSteps.i_should_be_able_to_login_successfully(LoginSteps.java:61)\r\n\tat ✽.Then I should be able to login successfully(Login.feature:6)\r\n",
   "status": "failed"
 });
@@ -418,14 +418,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1542484900,
+  "duration": 1452549401,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 2166674700,
+  "duration": 1191354600,
   "status": "passed"
 });
 formatter.match({
@@ -442,14 +442,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_valid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 4033612900,
+  "duration": 456604301,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 1788300000,
+  "duration": 784877401,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.LoginSteps.i_should_be_able_to_login_successfully(LoginSteps.java:61)\r\n\tat ✽.Then I should be able to login successfully(Login.feature:6)\r\n",
   "status": "failed"
 });
@@ -489,14 +489,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 2140515400,
+  "duration": 1362986900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 2448109400,
+  "duration": 1064256899,
   "status": "passed"
 });
 formatter.match({
@@ -513,14 +513,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_valid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 4881640000,
+  "duration": 471533700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 1774382700,
+  "duration": 694020101,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.LoginSteps.i_should_be_able_to_login_successfully(LoginSteps.java:61)\r\n\tat ✽.Then I should be able to login successfully(Login.feature:6)\r\n",
   "status": "failed"
 });
@@ -653,14 +653,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1910509600,
+  "duration": 1212194701,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 2078221200,
+  "duration": 3442640500,
   "status": "passed"
 });
 formatter.match({
@@ -677,14 +677,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_invalid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 3158571100,
+  "duration": 583150600,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_receive_an_error_message()"
 });
 formatter.result({
-  "duration": 1599779700,
+  "duration": 760245401,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.LoginSteps.i_should_receive_an_error_message(LoginSteps.java:74)\r\n\tat ✽.Then I should receive an error message(Login.feature:21)\r\n",
   "status": "failed"
 });
@@ -724,14 +724,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1919718300,
+  "duration": 1229578401,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 2315269700,
+  "duration": 1297556700,
   "status": "passed"
 });
 formatter.match({
@@ -748,14 +748,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_invalid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 3889831000,
+  "duration": 509382600,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_receive_an_error_message()"
 });
 formatter.result({
-  "duration": 1420650800,
+  "duration": 731835300,
   "status": "passed"
 });
 formatter.scenario({
@@ -794,14 +794,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1840316100,
+  "duration": 1200701000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 4659732100,
+  "duration": 3215414401,
   "status": "passed"
 });
 formatter.match({
@@ -818,14 +818,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_invalid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 3907287700,
+  "duration": 504846300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_receive_an_error_message()"
 });
 formatter.result({
-  "duration": 1458430800,
+  "duration": 725675900,
   "status": "passed"
 });
 formatter.scenario({
@@ -864,14 +864,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 2653541300,
+  "duration": 1176098300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 4279845000,
+  "duration": 1290912900,
   "status": "passed"
 });
 formatter.match({
@@ -888,14 +888,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_invalid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 2547160200,
+  "duration": 434894699,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_receive_an_error_message()"
 });
 formatter.result({
-  "duration": 1423939700,
+  "duration": 773353001,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat steps.LoginSteps.i_should_receive_an_error_message(LoginSteps.java:74)\r\n\tat ✽.Then I should receive an error message(Login.feature:21)\r\n",
   "status": "failed"
 });
@@ -935,14 +935,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1893914300,
+  "duration": 1710964199,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 3973812600,
+  "duration": 784570900,
   "status": "passed"
 });
 formatter.match({
@@ -959,14 +959,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_invalid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 2063400900,
+  "duration": 442737600,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_receive_an_error_message()"
 });
 formatter.result({
-  "duration": 1351507700,
+  "duration": 691077300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1005,14 +1005,14 @@ formatter.match({
   "location": "LoginSteps.i_open_Chrome_browser()"
 });
 formatter.result({
-  "duration": 1986858500,
+  "duration": 1252818800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_go_to_Jpetastore_page()"
 });
 formatter.result({
-  "duration": 1983545400,
+  "duration": 1387538600,
   "status": "passed"
 });
 formatter.match({
@@ -1029,14 +1029,14 @@ formatter.match({
   "location": "LoginSteps.i_click_sign_in_and_enter_invalid_and_combination_and_press_login_button(String,String)"
 });
 formatter.result({
-  "duration": 1731091000,
+  "duration": 495937699,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.i_should_receive_an_error_message()"
 });
 formatter.result({
-  "duration": 1374952300,
+  "duration": 703158600,
   "status": "passed"
 });
 });
